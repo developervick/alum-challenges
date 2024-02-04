@@ -35,3 +35,7 @@ pipenv run migrate
 # execute this command to check your problem where <problem> stands for its name
 check50 typicallythomas/AlumChallenges/main/problem_tests/<problem>
 ```
+
+## New Plans
+1. Adding Nextjs project frontEnd stuffs
+2. Created **HTML**, **CSS** directories for folkes who are not comfortable with NextJS ( Write your html, and css in organised manner, and we will merge it in next project )
